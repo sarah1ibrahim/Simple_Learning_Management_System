@@ -1,0 +1,13 @@
+<map id="mainwindow.h" name="mainwindow.h">
+<area shape="rect" id="node1" title=" " alt="" coords="260,5,363,31"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,79,113,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="212,299,283,324"/>
+<area shape="rect" id="node4" title=" " alt="" coords="437,79,543,104"/>
+<area shape="rect" id="node5" href="$professor_8h.html" title=" " alt="" coords="99,152,185,177"/>
+<area shape="rect" id="node7" href="$student_8h.html" title=" " alt="" coords="209,152,285,177"/>
+<area shape="rect" id="node9" href="$course_8h.html" title=" " alt="" coords="239,79,311,104"/>
+<area shape="rect" id="node10" title=" " alt="" coords="309,152,361,177"/>
+<area shape="rect" id="node11" title=" " alt="" coords="567,79,663,104"/>
+<area shape="rect" id="node6" href="$person_8h.html" title=" " alt="" coords="138,225,210,251"/>
+<area shape="rect" id="node8" title=" " alt="" coords="285,225,343,251"/>
+</map>

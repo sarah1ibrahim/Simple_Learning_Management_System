@@ -1,0 +1,9 @@
+<map id="course.h" name="course.h">
+<area shape="rect" id="node1" title=" " alt="" coords="113,5,185,31"/>
+<area shape="rect" id="node2" href="$student_8h.html" title=" " alt="" coords="5,79,81,104"/>
+<area shape="rect" id="node6" href="$professor_8h.html" title=" " alt="" coords="105,79,192,104"/>
+<area shape="rect" id="node7" title=" " alt="" coords="216,79,268,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,225,97,251"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,152,80,177"/>
+<area shape="rect" id="node5" href="$person_8h.html" title=" " alt="" coords="105,152,177,177"/>
+</map>
